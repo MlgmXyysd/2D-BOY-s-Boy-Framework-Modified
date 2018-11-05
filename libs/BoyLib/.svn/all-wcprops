@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/BoyLib
+END
+BoyMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/BoyLib/BoyMath.h
+END
+MessageSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/BoyLib/MessageSource.h
+END
+HeightBoundary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/BoyLib/HeightBoundary.cpp
+END
+ReusableTickableSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/BoyLib/ReusableTickableSet.cpp
+END
+IntersectionBoundary.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/BoyLib/IntersectionBoundary.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/BoyLib/md5.c
+END
+SinFunction2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/BoyLib/SinFunction2D.cpp
+END
+TickableQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/BoyLib/TickableQueue.h
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/BoyLib/Vector2.h
+END
+SmoothTransitionFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/BoyLib/SmoothTransitionFunction.cpp
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/BoyLib/md5.h
+END
+UString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/UString.cpp
+END
+MemDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/BoyLib/MemDbg.cpp
+END
+PerfTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/BoyLib/PerfTimer.cpp
+END
+Positionable.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/BoyLib/Positionable.h
+END
+Messenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/Messenger.h
+END
+Rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/BoyLib/Rect.cpp
+END
+TickableSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/BoyLib/TickableSet.h
+END
+Clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/BoyLib/Clipboard.cpp
+END
+MessageListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/BoyLib/MessageListener.h
+END
+Circle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/BoyLib/Circle.cpp
+END
+ReusableTickable.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/BoyLib/ReusableTickable.h
+END
+IntersectionBoundary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/BoyLib/IntersectionBoundary.cpp
+END
+ReusableTickableQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/BoyLib/ReusableTickableQueue.h
+END
+UStringStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/BoyLib/UStringStream.h
+END
+Function2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/BoyLib/Function2D.h
+END
+HeightBoundary.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/BoyLib/HeightBoundary.h
+END
+ReusableTickableSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/BoyLib/ReusableTickableSet.h
+END
+TickableQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/BoyLib/TickableQueue.cpp
+END
+Tickable.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/BoyLib/Tickable.h
+END
+CrtDbgNew.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/CrtDbgNew.h
+END
+Boundary.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/BoyLib/Boundary.h
+END
+Messenger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/BoyLib/Messenger.cpp
+END
+Positionable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/BoyLib/Positionable.cpp
+END
+Cloneable.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/Cloneable.h
+END
+Function.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/BoyLib/Function.h
+END
+SinFunction2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/BoyLib/SinFunction2D.h
+END
+TickableSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/BoyLib/TickableSet.cpp
+END
+BoyUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/BoyLib/BoyUtil.h
+END
+SmoothTransitionFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/BoyLib/SmoothTransitionFunction.h
+END
+MemDbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/BoyLib/MemDbg.h
+END
+UString.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/BoyLib/UString.h
+END
+Rect.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/BoyLib/Rect.h
+END
+PerfTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/PerfTimer.h
+END
+Clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/Clipboard.h
+END
+CrtDbgInc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/BoyLib/CrtDbgInc.h
+END
+Circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/BoyLib/Circle.h
+END
+ReusableTickableQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/BoyLib/ReusableTickableQueue.cpp
+END
+UStringStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/BoyLib/UStringStream.cpp
+END
